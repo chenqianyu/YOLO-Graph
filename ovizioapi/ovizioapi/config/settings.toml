@@ -1,0 +1,12 @@
+[default]
+    redirectLog=false
+    useGPU=true
+    verbose=true
+    logging=false
+
+    [default.paths]
+    osone='C:\Program Files\Ovizio\OsOne'
+    vcr='C:\Windows\System32'
+
+    [default.registry]
+    dotnet='SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full'

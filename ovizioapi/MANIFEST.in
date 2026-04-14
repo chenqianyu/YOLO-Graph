@@ -1,0 +1,2 @@
+include ovizioapi/config/settings.toml
+include ovizioapi/config/DefaultReconstructionParameters.xml
