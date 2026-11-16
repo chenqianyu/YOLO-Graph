@@ -1,3 +1,18 @@
+# YOLO-Graph
+
+Official code for the paper
+
+> **AI-Enhanced Detection of Cellular Aggregate Biomarkers For Point-of-Care Using Digital Holographic Microscopy**
+> Qianyu Chen, Matthew Edward Cove, Kerem Delikoyun, Klaus Diepold, Oliver Hayden, Win Sen Kuan, Wei Liu, John Soong
+> *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, Lisbon, Portugal, 2024. Pages 5610-5615.
+>
+> [DOI: 10.1109/BIBM62325.2024.10821749](https://doi.org/10.1109/BIBM62325.2024.10821749)
+
+<p align="center">
+  <img src="views/data_processing_workflow_v2.drawio.png" width="720" alt="FL-YOLO-DADP workflow">
+  <br><em>Fig. 1: YOLO-Graph workflow.</em>
+</p>
+
 ### Workflow
    +	*Image Capture:* Initially, users capture images utilizing the Spinnaker Software Development Kit (SDK). 
       This SDK provides an interface for camera operation and image acquisition.
